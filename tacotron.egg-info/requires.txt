@@ -1,0 +1,6 @@
+hgtk
+click
+pyyaml
+tts_text_util
+voxa>=0.3.12
+torchcrepe

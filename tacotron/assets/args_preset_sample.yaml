@@ -1,0 +1,6 @@
+#################################################################################
+# Please refer to `util/default_args.py` to see the list of arguments.
+#################################################################################
+exp_no: "sample"
+data: "eunsoo_reporter"
+gpu: 0

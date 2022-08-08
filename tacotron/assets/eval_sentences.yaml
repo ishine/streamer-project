@@ -1,0 +1,112 @@
+test:
+- text: 테스트테스트
+  lang: KOR
+
+balanced_ko5_en5:
+- text: 이.
+  lang: KOR
+- text: 삼.
+  lang: KOR
+- text: 흐흐.
+  lang: KOR
+- text: 스위스에서 오셔서 산새들이 속삭이는 산림 숲속의 숫사슴과 샘 속 송사리 새끼를 샅샅이 수색해 식사.
+  lang: KOR
+- text: 추어돈까스 대신 먹으신 분은 좋은 직장 다니면서 행복한 가정 꾸리고 계시고 렐라는 트수랑 하루종일 화내면서 얼굴 꾸기고.
+  lang: KOR
+- text: One.
+  lang: ENG
+- text: Two.
+  lang: ENG
+- text: H.
+  lang: ENG
+- text: That’s just the average nationwide figure the heat has spiked even higher in some places.
+  lang: ENG
+- text: Lee said after the briefing that it was the “worst briefing I’ve had on a military issue
+  lang: ENG
+
+balanced_ko5_en5_old:
+- text: 기자가 몇 개월 동안 쉼 끝에 다시 신문사에서 일하게 된 겁니까?
+  lang: KOR
+- text: 위의 예에서 어떤 대우 표현을 선택하여 쓰느냐 하는 것은 말할이의 교양이나 품위와 밀접한 관련이 있다.
+  lang: KOR
+- text: 낙동역과 한림정역을 거쳐 목적지인 진영에 도착될 때까지 허정우의 마음은 들떠 있었다.
+  lang: KOR
+- text: 거기서 집을 내려다보면 볼품없이 삐쭉삐쭉 솟은 연탄고래 굴뚝이 너덧 개가 보인다.
+  lang: KOR
+- text: 침팬지가 흥겨워 뛸 때에는 한쪽 다리에 힘을 주어 두 박자의 트롯이 된다.
+  lang: KOR
+- text: Pour the stew from the pot into the plate.
+  lang: ENG
+- text: Green moss grows on the northern side.
+  lang: ENG
+- text: We don't like to admit our small faults.
+  lang: ENG
+- text: The marsh will freeze when cold enough.
+  lang: ENG
+- text: The kite dipped and swayed, but stayed aloft.
+  lang: ENG
+  
+japanese:
+- text: 警察は動物愛護法違反の疑いで捜査しています。
+  lang: JPN
+- text: 有毒な薬品が入った餌のようなものが置かれていました。
+  lang: JPN
+- text: 軽トラックを運転していた男性が死亡しました。
+  lang: JPN
+- text: 福岡土産の定番の一つとして旅行者や出張者に人気です。
+  lang: JPN
+- text: また、軽乗用車を運転していた50代の女性が首の痛みなどを訴え、病院に運ばれました。
+  lang: JPN
+- text: センターポールだけで区切られている対面通行の区間です。
+  lang: JPN
+- text: 私は飴より雨が好きです。
+  lang: JPN
+- text: 葉はっぱが雨あめにしなだれている。
+  lang: JPN
+- text: 飴あめが手てにべたべたくっついた。
+  lang: JPN
+
+spanish:
+- text: Mamá, es algo bueno lo que haces para los animales.
+  lang: ESP
+- text: Pienso que tenemos que apurarnos con esto.
+  lang: ESP
+- text: Salgan al parqueo y ahí les llevaré al paquete completo.
+  lang: ESP
+- text: ¡Ya tardó este camarero! Queremos que venga ya para irnos.
+  lang: ESP
+- text: Señor, disculpe. ¿Podría darme un minuto, por favor?
+  lang: ESP
+- text: La hice con jamón y queso.
+  lang: ESP
+- text: diez, veinte, treinta, cincuenta, cinco, cien.
+  lang: ESP
+- text: Pues nada, habrá que aprovechar antes de que se extinga.
+  lang: ESP
+- text: Para mis padres, el yerno perfecto tendría que rezar cinco veces al día, a La Meca.
+  lang: ESP
+- text: Curro corre tras el carro por la carretera del cerro. por la carretera del cerro curro corre tras el carro.
+  lang: ESP
+
+french:
+- text: Le temps était magnifique.
+  lang: FRA
+- text: Il ne vous a rien dit de plus.
+  lang: FRA
+- text: Qu'est-ce que tu viens faire ici?
+  lang: FRA
+- text: C'est ce que tu essaies de me dire ?
+  lang: FRA
+- text: Je voudrais payer avec ma carte de crédit.
+  lang: FRA
+- text: Si vous avez quelque chose à dire, dites-le.
+  lang: FRA
+- text: Prenez votre temps, et expliquez-nous ça du début.
+  lang: FRA
+- text: Pouvez-vous m’aider à porter ma valise, s’il vous plait? 
+  lang: FRA
+- text: Ici commence la seconde partie de ce voyage sous les mers.
+  lang: FRA
+- text: Permettez-nous de vous souhaiter votre plus glorieuse victoire.
+  lang: FRA
+  

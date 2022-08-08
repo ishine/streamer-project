@@ -1,0 +1,44 @@
+#################################################################################
+# speaker_group can be either 'str' or 'list'.
+# IF 'str', actual speaker list will be retrieved from eval_speakers.yaml
+# IF 'list', the list itself will be used as a target speaker list in evaluation.
+#################################################################################
+# text_group is always 'list'.
+# Evaluation sentences will be retrieved from eval_sentences.yaml
+#################################################################################
+# Key should be explicitly written as 'str'. (numbers will be considered as int)
+#################################################################################
+
+default:
+  speaker_group: default
+  text_group:
+    - balanced_ko5_en5
+
+"175":
+  speaker_group:
+    - masayoshi
+    - stevejobs
+
+"451":
+  speaker_group: japanese
+  text_group:
+    - balanced_ko5_en5
+    - japanese
+
+"453":
+  speaker_group: japanese
+  text_group:
+    - balanced_ko5_en5
+    - japanese
+
+JPN:
+  text_group:
+    - japanese
+
+ESP:
+  text_group:
+    - spanish
+
+FRA:
+  text_group:
+    - french
